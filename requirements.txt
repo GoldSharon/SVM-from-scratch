@@ -1,0 +1,3 @@
+numpy==1.23.5       # For array manipulation and math operations
+cupy-cuda12x        # Replace '12x' with your CUDA version; for example, cupy-cuda123 for CUDA 12.3
+scikit-learn==1.2.2 # Optional, for data processing utilities and comparison
